@@ -1,0 +1,8 @@
+F:\Python\IPscanner\publish\framework_dependent\OllamaIPScanner.exe
+F:\Python\IPscanner\publish\framework_dependent\OllamaIPScanner.dll
+F:\Python\IPscanner\publish\framework_dependent\OllamaIPScanner.deps.json
+F:\Python\IPscanner\publish\framework_dependent\OllamaIPScanner.runtimeconfig.json
+F:\Python\IPscanner\publish\framework_dependent\OllamaIPScanner.pdb
+F:\Python\IPscanner\publish\framework_dependent\System.Text.Encodings.Web.dll
+F:\Python\IPscanner\publish\framework_dependent\System.Text.Json.dll
+F:\Python\IPscanner\publish\framework_dependent\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll

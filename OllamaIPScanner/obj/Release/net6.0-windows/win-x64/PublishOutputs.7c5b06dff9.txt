@@ -1,0 +1,2 @@
+F:\Python\IPscanner\publish\self_contained\OllamaIPScanner.pdb
+F:\Python\IPscanner\publish\self_contained\OllamaIPScanner.exe

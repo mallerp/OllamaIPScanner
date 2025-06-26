@@ -1,0 +1,8 @@
+F:\C#\Ip端口扫描工具\publish\framework_dependent\OllamaIPScanner.exe
+F:\C#\Ip端口扫描工具\publish\framework_dependent\OllamaIPScanner.dll
+F:\C#\Ip端口扫描工具\publish\framework_dependent\OllamaIPScanner.deps.json
+F:\C#\Ip端口扫描工具\publish\framework_dependent\OllamaIPScanner.runtimeconfig.json
+F:\C#\Ip端口扫描工具\publish\framework_dependent\OllamaIPScanner.pdb
+F:\C#\Ip端口扫描工具\publish\framework_dependent\System.Text.Encodings.Web.dll
+F:\C#\Ip端口扫描工具\publish\framework_dependent\System.Text.Json.dll
+F:\C#\Ip端口扫描工具\publish\framework_dependent\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll

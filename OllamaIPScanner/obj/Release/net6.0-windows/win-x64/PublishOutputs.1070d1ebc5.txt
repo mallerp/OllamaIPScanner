@@ -1,0 +1,2 @@
+F:\C#\Ip端口扫描工具\publish\self_contained\OllamaIPScanner.pdb
+F:\C#\Ip端口扫描工具\publish\self_contained\OllamaIPScanner.exe
